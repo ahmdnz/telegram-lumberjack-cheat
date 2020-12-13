@@ -6,3 +6,5 @@
 
 3. if the mouse got out of controll after running the code, try to stop the code with Ctrl+Alt+Delete
 
+4. before running the code, download the required Python libraries: "pyautogui" and "pyscreenshot"
+

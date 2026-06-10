@@ -11,7 +11,6 @@ A bot that automates gameplay in the Lumberjack Telegram game.
 - Key libraries: pyautogui, pyscreenshot
 
 ## Usage
-git clone https://github.com/ahmdnz/telegram-lumberjack-cheat
 ```bash
 git clone https://github.com/ahmdnz/telegram-lumberjack-cheat
 # [install & run steps]

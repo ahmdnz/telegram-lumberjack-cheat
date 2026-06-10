@@ -1,10 +1,22 @@
-# telegram-lumberjack-cheat
+# Telegram Lumberjack Cheat
+A bot that automates gameplay in the Lumberjack Telegram game.
 
+## How it works
 1. for matching the coordinates properly: Divide your screen into two vertical sections and put the lumberjack window in your browser on the right side, if it doesn't work you have to match the coordinates yourself!
-
 2. for maximum speed and working this code, try to zoom out your browser to have 6 branches at time on your screen (for mine, 67% was suitable)
-
 3. if the mouse got out of controll after running the code, try to stop the code with Ctrl+Alt+Delete
 
-4. before running the code, download the required Python libraries: "pyautogui" and "pyscreenshot"
+## Tech stack
+- Python
+- Key libraries: pyautogui, pyscreenshot
+
+## Usage
+git clone https://github.com/ahmdnz/telegram-lumberjack-cheat
+```bash
+git clone https://github.com/ahmdnz/telegram-lumberjack-cheat
+# [install & run steps]
+```
+
+
+
 
